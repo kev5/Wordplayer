@@ -23,8 +23,12 @@ rodman
 exit 0
 %
 ```
-'helloworld 6' signifies that the user wants all possible 6 letter combinations from the word 'helloworld', that are present in the text file he entered. 
-After printing all possible words that the program can find in the text file, it prints a '.' and prompts the user to enter any other words he'd like to search for.
-The program exits after the user enters 'exit 0'.
-All the words in the text files are in lower case.
+```helloworld 6``` signifies that the user wants all possible 6 letter combinations from the word 'helloworld', that are present in the text file he entered.
+
+After printing all possible words that the program can find in the text file, it prints a '```.```' and prompts the user to enter any other words he'd like to search the text file for.
+
+The program exits after the user enters '```exit 0```'.
+
+Note that all the words in the text files are in lower case.
+
 
