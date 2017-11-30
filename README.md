@@ -31,4 +31,4 @@ The program exits after the user enters '```exit 0```'.
 
 Note that all the words in the text files are in lower case.
 
-
+Both C++ and Python programs follow the 'cpplint' and 'pylint' standards for coding style and elegance.
